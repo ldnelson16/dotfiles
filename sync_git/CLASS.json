@@ -1,0 +1,83 @@
+{
+    "ENGR" : {
+        "100" : {},
+        "101" : {}
+    },
+    "EECS" : {
+        "203" : {},
+        "270" : {
+            "labs" : [
+                "7~ldnelson16/FourFuncCalc-E270?main"
+            ]
+        },
+        "280" : {
+            "projects" : [
+                "1~ldnelson16/p1-Stats",
+                "2~ldnelson16/p2-cv",
+                "3~ldnelson16/p3-Euchre",
+                "5~ldnelson16/p5-ml"
+            ]
+        },
+        "281" : {
+            "projects" : [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "370" : {
+            "projects" : [
+                "1",
+                "2"
+            ]
+        },
+        "376" : {},
+        "388" : {
+            "projects" : [
+                "1?main",
+                "2?main",
+                "3?main",
+                "4?main",
+                "5?main"
+            ],
+            "labs" : [
+                "1?main",
+                "2?main",
+                "3?main",
+                "4?main",
+                "5?main"
+            ]
+        },
+        "470" : {
+            "projects" : [
+                "1~EECS-470/p1-f24.lukenels.git?main",
+                "2~EECS-470/p2-f24.lukenels.git?main",
+                "3~EECS-470/p3-f24.lukenels.git?main",
+                "4~edurso/eecs470-project.git?main"
+            ],
+            "labs" : [
+                "1~EECS-470/lab1-f24.lukenels.git?main",
+                "2~EECS-470/lab2-f24.lukenels.git?main",
+                "3~EECS-470/lab3-f24.lukenels.git?main",
+                "5~EECS-470/lab5-f24.lukenels.git?main"
+            ]
+        },
+        "496" : {}
+    },
+    "MECHENG" : {
+        "211" : {},
+        "240" : {}
+    },
+    "MATH" : {
+        "215" : {},
+        "216" : {}
+    },
+    "ROB" : {
+        "101" : {}
+    },
+    "TC" : {
+        "300" : {},
+        "497" : {}
+    }
+}
